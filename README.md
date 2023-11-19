@@ -4,6 +4,12 @@
   <li>Filter-function from types of food</li>
   <li>Search-function</li>
 </ul>
+There are still a few things to do:
+<ul>
+  <li>Add React Lazy Load to show photos in a smoother way</li>
+  <li>Use Zustand or Redux Toolkits library to manage variables/states and fucntions</li>
+  <li>Ultimate Updates would be a website for a restaurant with order-food with cart (front end final project)</li>
+</ul>
 
 <a href="https://shangyim.netlify.app/">Link is here!</a>
 
